@@ -1,6 +1,10 @@
 package com.sparta.codingtest.day1;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.sql.SQLOutput;
+import java.util.StringTokenizer;
 
 public class Q1 {
   /*
@@ -15,6 +19,23 @@ public class Q1 {
     - A가 B보다 작은 경우에는 '<'를 출력한다.
     - A와 B가 같은 경우에는 '=='를 출력한다.
    */
+
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        // 한 줄로 입력받은 두 정수를 공백 기준으로 분리
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        int A = Integer.parseInt(st.nextToken());
+        int B = Integer.parseInt(st.nextToken());
+
+        // 두 정수를 비교하여 결과를 출력
+        System.out.println(A > B ? ">" : (A < B ? "<" : "=="));
+    }
+}
+
+
+/*
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,9 @@
 package com.sparta.codingtest.day1;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Q2 {
     /*
@@ -19,7 +22,29 @@ public class Q2 {
     첫째 줄에 검증수를 출력한다.
      */
 
-    public static void main(String[] args) {
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        // 한 줄로 입력받은 5개의 숫자를 공백을 기준으로 분리
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        // 각 숫자를 제곱한 합을 구한다.
+        int sum = 0;
+        while (st.hasMoreTokens()) {
+            int num = Integer.parseInt(st.nextToken());
+            sum += num * num;
+        }
+
+        // 10으로 나눈 나머지를 구함
+        int result = sum % 10;
+
+        // 결과 출력
+        System.out.println(result);
+    }
+
+
+    /*public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // 5개의 숫자 입력 받기
@@ -40,4 +65,6 @@ public class Q2 {
         System.out.println(result);
 
     }
+}
+     */
 }

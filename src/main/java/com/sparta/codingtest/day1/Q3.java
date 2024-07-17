@@ -1,9 +1,33 @@
 package com.sparta.codingtest.day1;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Q3 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        int hour = Integer.parseInt(st.nextToken());
+        int minute = Integer.parseInt(st.nextToken());
+        int second = Integer.parseInt(st.nextToken());
+        int inputTime = Integer.parseInt(st.nextToken());
+
+        second += inputTime;
+        minute += second / 60;  // second 가 60초 이상 돼서 초를 60으로 나눈 몫을 minute 에 추가
+        second %= 60;  // 초를 60으로 나눈 나머지 값으로 업데이트
+        hour += minute / 60; // 시간에 분을 60으로 나눈 몫을 추가
+        minute %= 60;  // 분을 60으로 나눈 나머지로 업데이트
+        hour %= 24;  // 시간을 24로 나눈 나머지로 업데이트
+
+        System.out.println(hour + " " + minute + " " + second);
+    }
+}
+    /*public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // 현재 시간 입력 받기
