@@ -6,7 +6,7 @@ public class Q4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // A, B, C를 입력받습니다.
+        // A, B, C를 입력받기
         int A = scanner.nextInt();
         int B = scanner.nextInt();
         int C = scanner.nextInt();
