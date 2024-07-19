@@ -3,7 +3,6 @@ package com.sparta.codingtest.day1;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Q3 {
@@ -27,6 +26,7 @@ public class Q3 {
         System.out.println(hour + " " + minute + " " + second);
     }
 }
+
     /*public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -51,3 +51,5 @@ public class Q3 {
         System.out.println(hours + " " + minutes + " " + seconds);
     }
 }
+
+     */
