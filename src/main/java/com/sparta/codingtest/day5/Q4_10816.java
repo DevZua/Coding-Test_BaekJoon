@@ -31,6 +31,7 @@ public class Q4_10816 {
             bw.write(cardMap.getOrDefault(num, 0) + " ");
         }
 
+        // flush 쓴 이유 : 버퍼에 남아 있는 데이터를 출력 스트림에 강제로 쓰기 위해서
         bw.flush();
     }
 
