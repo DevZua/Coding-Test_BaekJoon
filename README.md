@@ -29,3 +29,9 @@
 2. 알고리즘 수업-알고리즘의 수행시간6(24267번) : https://www.acmicpc.net/problem/24267
 3. 숫자 카드(10815번) : https://www.acmicpc.net/problem/10815
 4. 숫자 카드 2(10816번) : https://www.acmicpc.net/problem/10816
+
+### 6일차 - 2024.07.24.
+1. N과 M(15649번) : https://www.acmicpc.net/problem/15649
+2. 알고리즘 수업 - 점근적 표기 1(24313번) : https://www.acmicpc.net/problem/24313
+3. N과 M_2(15650번) : https://www.acmicpc.net/problem/15650
+4. 인사성 밝은 곰곰이(25192번) : https://www.acmicpc.net/problem/25192
