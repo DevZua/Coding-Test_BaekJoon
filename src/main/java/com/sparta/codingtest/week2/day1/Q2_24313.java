@@ -1,4 +1,4 @@
-package com.sparta.codingtest.week2;
+package com.sparta.codingtest.week2.day1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

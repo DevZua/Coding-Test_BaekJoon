@@ -57,7 +57,7 @@ public class Q3_10815 {
         st = new StringTokenizer(br.readLine().trim());
         for (int i = 0; i < m; i++) {
             int num = Integer.parseInt(st.nextToken());
-             result.append(cardStorage.contains(num) ? "1 " : "0")
+             result.append(cardStorage.contains(num) ? "1 " : "0");
         }
 
         System.out.println(result.toString().trim());

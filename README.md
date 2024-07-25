@@ -35,3 +35,9 @@
 2. 알고리즘 수업 - 점근적 표기 1(24313번) : https://www.acmicpc.net/problem/24313
 3. N과 M_2(15650번) : https://www.acmicpc.net/problem/15650
 4. 인사성 밝은 곰곰이(25192번) : https://www.acmicpc.net/problem/25192
+
+### 7일차(스택/큐/테크) - 2024.07.25.
+1. 막대기(17608번) : https://www.acmicpc.net/problem/17608
+2. 단어순서 뒤집기(12605번) : https://www.acmicpc.net/problem/12605
+3. 3의 배수(1769번) : https://www.acmicpc.net/problem/1769
+4. 큐(10845번) : https://www.acmicpc.net/problem/10845
