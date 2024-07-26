@@ -41,3 +41,9 @@
 2. 단어순서 뒤집기(12605번) : https://www.acmicpc.net/problem/12605
 3. 3의 배수(1769번) : https://www.acmicpc.net/problem/1769
 4. 큐(10845번) : https://www.acmicpc.net/problem/10845
+
+### 88일차 (Heap, Hash Table 기본 문제 풀이) - 2024.07.26.
+1. 민균이의 비밀번호(9933번) : https://www.acmicpc.net/problem/9933
+2. 국회의원 선거(1417번) : https://www.acmicpc.net/problem/1417
+3. 전주 듣고 노래 맞추기(31562번) : https://www.acmicpc.net/problem/31562
+4. Hashing(15829번) : https://www.acmicpc.net/problem/15829
