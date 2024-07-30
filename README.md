@@ -59,3 +59,15 @@
 2. Yangjojang of The Year(11557번) : https://www.acmicpc.net/problem/11557
 3. 콘서트(16466번) : https://www.acmicpc.net/problem/16466
 4. 세준세비(1524번) : https://www.acmicpc.net/problem/1524
+ 
+### 11일차 - 2024.07.30.
+
+* Test
+  * 식당 입구 대기 줄(26042번) : 난이도 하
+    * https://www.acmicpc.net/problem/26042
+  * 파일 합치기 3(13975번) : 난이도 중
+    * https://www.acmicpc.net/problem/13975
+  * 스카이라인 쉬운거(1863번) : 난이도 중
+    * https://www.acmicpc.net/problem/1863
+  * 5차 전직(16112번) : 난이도 중상
+    * https://www.acmicpc.net/problem/16112
