@@ -71,3 +71,15 @@
     * https://www.acmicpc.net/problem/1863
   * 5차 전직(16112번) : 난이도 중상
     * https://www.acmicpc.net/problem/16112
+
+### 13일차 - 2024.07.31.
+1. 보물(1026번) : https://www.acmicpc.net/problem/1026
+2. 신입사원(1946번) : https://www.acmicpc.net/problem/1946
+3. 좌표 압축(18870번) : https://www.acmicpc.net/problem/18870
+4. 단어 정렬(1181번) : https://www.acmicpc.net/problem/1181
+
+### 15일차 - 2024.08.02
+1. 30번(13116번) : https://www.acmicpc.net/problem/13116
+2. 완전 이진 트리(9934번) : https://www.acmicpc.net/problem/9934
+3. 숫자판 점프(2210번) : https://www.acmicpc.net/problem/2210
+4. 양치기 꿍(3187번) : https://www.acmicpc.net/problem/3187
