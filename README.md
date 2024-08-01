@@ -78,7 +78,10 @@
 3. 좌표 압축(18870번) : https://www.acmicpc.net/problem/18870
 4. 단어 정렬(1181번) : https://www.acmicpc.net/problem/1181
 
-### 15일차 - 2024.08.02
+### 14일차 - 2024.08.01.
+4. 상근이의 여행(9372번) : https://www.acmicpc.net/problem/9372
+
+### 15일차 - 2024.08.02.
 1. 30번(13116번) : https://www.acmicpc.net/problem/13116
 2. 완전 이진 트리(9934번) : https://www.acmicpc.net/problem/9934
 3. 숫자판 점프(2210번) : https://www.acmicpc.net/problem/2210
