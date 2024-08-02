@@ -82,6 +82,10 @@
 4. 상근이의 여행(9372번) : https://www.acmicpc.net/problem/9372
 
 ### 15일차 - 2024.08.02.
+1. 그녀를 찾아서(16502번) : https://www.acmicpc.net/problem/16502
+4. 소셜네트워크(3098번) : https://www.acmicpc.net/problem/3098
+
+### x일차 - 2024.08.02.
 1. 30번(13116번) : https://www.acmicpc.net/problem/13116
 2. 완전 이진 트리(9934번) : https://www.acmicpc.net/problem/9934
 3. 숫자판 점프(2210번) : https://www.acmicpc.net/problem/2210
