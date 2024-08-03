@@ -85,6 +85,9 @@
 1. 그녀를 찾아서(16502번) : https://www.acmicpc.net/problem/16502
 4. 소셜네트워크(3098번) : https://www.acmicpc.net/problem/3098
 
+### 16일차 - 2024.08.03.
+4. 그림(1926번) : https://www.acmicpc.net/problem/1926
+
 ### x일차 - 2024.08.02.
 1. 30번(13116번) : https://www.acmicpc.net/problem/13116
 2. 완전 이진 트리(9934번) : https://www.acmicpc.net/problem/9934
