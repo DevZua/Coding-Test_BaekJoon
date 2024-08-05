@@ -88,6 +88,10 @@
 ### 16일차 - 2024.08.03.
 4. 그림(1926번) : https://www.acmicpc.net/problem/1926
 
+### 17일차 - 2024.08.05.
+2. 영상처리(21938번) : https://www.acmicpc.net/problem/21938
+4. 양(3184번) : https://www.acmicpc.net/problem/3184
+
 ### x일차 - 2024.08.02.
 1. 30번(13116번) : https://www.acmicpc.net/problem/13116
 2. 완전 이진 트리(9934번) : https://www.acmicpc.net/problem/9934
