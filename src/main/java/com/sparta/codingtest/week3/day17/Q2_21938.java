@@ -67,7 +67,7 @@ public class Q2_21938 {
 
     private static void dfs(int y, int x) {
         // 방문 처리: 255 -> -1  graph 배열의 값이 255인 경우 방문한 것으로 처리하기 위해 -1로 변경.
-        graph[x][y] = -1;
+        graph[y][x] = -1;
 
         // 네 방향으로 인접한 칸 탐색
         for (int i = 0; i < 4; i++) {
